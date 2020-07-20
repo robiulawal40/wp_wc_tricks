@@ -1,6 +1,6 @@
 # Wordpress & Woocommerce Tricks
 Simple Function that prevent you using a giant Plugin.
-## Displaying Customer User Agent inside the Woocommerce Order Admin Area {#user_agent}
+## Displaying Customer User Agent inside the Woocommerce Order Admin Area
 Copy and Paste the code inside functions.php of active theme directory 
 ```
 function order_user_agent( $order ) {
