@@ -15,7 +15,7 @@ function order_user_agent( $order ) {
 }
 add_action( "woocommerce_admin_order_data_after_order_details", "order_user_agent" );
 ```
-![User Aegent Image](https://github.com/robiulawal40/wp_wc_tricks/blob/master/Edit_order_%E2%80%B9_Test_%E2%80%94_WordPress.png) 
+![User Aegent Image](https://drive.google.com/file/d/1S-tvk5N7ZNsp0PWUS_AJ7HhVHSvy7gem/view?usp=sharing) 
 ---
 *You should Get the output similar to the image*
 
