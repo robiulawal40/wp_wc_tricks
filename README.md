@@ -1,2 +1,3 @@
 # Wordpress & Woocommerce Tricks
-Simple Function that help you using a giant Plugin
+Simple Function that prevent you using a giant Plugin
+## Displaying Customer IP inside the Woocommerce Order Admin Area
